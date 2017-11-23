@@ -9,6 +9,6 @@
 
 </example>
 
-<script src="{{ asset('js/main.js') }}"></script>
+<script src="{{ elixir('js/main.js') }}"></script>
 </body>
 </html>

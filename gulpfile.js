@@ -14,5 +14,5 @@ const elixir = require('laravel-elixir');
 require('laravel-elixir-vue-2');
 
 elixir(mix => {
-    mix.webpack('main.js');
+    mix.version('js/main.js');
 });
